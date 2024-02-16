@@ -1,0 +1,14 @@
+
+
+#section-five{
+   background-color: beige;
+}
+
+#section-five >p{
+  
+     max-width: 320px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 5vh;
+    padding: 20px;
+    font-weight: normal;
+}

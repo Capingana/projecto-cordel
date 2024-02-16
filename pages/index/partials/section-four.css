@@ -1,0 +1,19 @@
+#section-four{
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.37);
+    line-height: 40px;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("../../../image/background002.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:left center;
+    box-shadow: inset 6px 6px 13px 0px black;
+}
+
+#section-four >p{
+    background-color: rgba(54, 52, 40, 0.37);
+    max-width: 550px;
+    padding: 20px;
+    text-shadow: 2px 2px 2px black;
+}
